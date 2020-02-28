@@ -16,7 +16,7 @@ export default class Main extends Component {
     inputError: false,
   };
 
-  // Loading localStorage data
+  /* Loading localStorage data */
   componentDidMount() {
     const repositories = localStorage.getItem('repositories');
 
@@ -25,7 +25,7 @@ export default class Main extends Component {
     }
   }
 
-  // Saving data at localStorage
+  /* Saving data at localStorage */
   componentDidUpdate(_, prevState) {
     const { repositories } = this.state;
 
@@ -34,11 +34,14 @@ export default class Main extends Component {
     }
   }
 
-  /** excludes all listed repositories */
+
+  /** setting new repository in state - always in lower case */
   handleInputChange = e => {
-    this.setState({ newRepo: e.target.value });
+    const rep = e.target.value;
+    this.setState({ newRepo: rep.toLowerCase() });
   };
 
+  /* including a repository to state */
   handleSubmit = async e => {
     e.preventDefault();
 
@@ -90,6 +93,7 @@ export default class Main extends Component {
     }
   };
 
+  /* excludes all listed repositories - and localstorage */
   handleExclude = () => {
     localStorage.setItem('repositories', '');
 

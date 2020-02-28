@@ -72,6 +72,7 @@ export default class Repository extends Component {
     }
   }
 
+  /** setting issue status  */
   handleStatusSelect = e => {
     this.setState({ status: e.target.value });
   };
