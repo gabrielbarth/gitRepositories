@@ -14,26 +14,26 @@ Aplicação ReactJS conectada com a <a href="https://developer.github.com/v3/"> 
 :us: 
 <br>
 
-Data storage in localStorage (browser);
-Use of the stateful component and componentDidMount and componentDidUpdate life cycle functions;
-Routes creation with react-router-dom with parameters passed through component props;
-Pagination (but I still have to solve the infinite pagination bug);
-Simultaneous requests to the API -> listing of the repository and listing of its isseus;
-Handling of input information to allow only lowerCase (lower case letters);
-Reuse of the same component created with stylized components for different application pages.
+- Data storage in localStorage (browser);
+- Use of the stateful component and componentDidMount and componentDidUpdate life cycle functions;
+- Routes creation with react-router-dom with parameters passed through component props;
+- Pagination (but I still have to solve the infinite pagination bug);
+- Simultaneous requests to the API: listing of the repository and listing of its isseus;
+- Handling of input information to allow only lowerCase (lower case letters);
+- Reuse of the same component created with stylized components for different application pages.
 
 
 
 <span>&#x1f1e7;&#x1f1f7;</span>
 <br>
-Conexão com API de terceiros através do Axios;
-Armazenamento de dados no localStrorage (navegador);
-Utilização de stateful component e, dessa forma, as funções do ciclo de vida componentDidMount e componentDidUpdate;
-Criação de rotas no react-router-dom com parâmetro passado atraves de props do componente;
-Paginação (embora tenho que resolver o bug de paginação infinita);
-Requisições simultâneas a API -> listagem do repositório e a listagem de suas isseus;
-Tratamento de entrada de informação no input para permitir apenas lowerCase (letras minúsculas);
-Reaproveitamento de um mesmo componente criado com styled-components para diferentes páginas da aplicação. 
+- Conexão com API de terceiros através do Axios;
+- Armazenamento de dados no localStrorage (navegador);
+- Utilização de stateful component e, dessa forma, as funções do ciclo de vida componentDidMount e componentDidUpdate;
+- Criação de rotas no react-router-dom com parâmetro passado atraves de props do componente;
+- Paginação (embora tenho que resolver o bug de paginação infinita);
+- Requisições simultâneas a API: listagem do repositório e a listagem de suas isseus;
+- Tratamento de entrada de informação no input para permitir apenas lowerCase (letras minúsculas);
+- Reaproveitamento de um mesmo componente criado com styled-components para diferentes páginas da aplicação. 
 
 
 
