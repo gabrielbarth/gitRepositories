@@ -4,12 +4,13 @@
 :us: 
 <br>
 ReactJS application connected on  <a href="https://developer.github.com/v3/"> GitHub API </a> that allows to store repositories and its informations, such as: repository owner login and profile photo, and listing of repository issues (openned, closed or both). 
+Application developed during GoStack 10 Rocketseat bootcamp.
 <br>
 <br>
 <span>&#x1f1e7;&#x1f1f7;</span>
 <br>
 Aplicação ReactJS conectada com a <a href="https://developer.github.com/v3/"> API do GitHub </a> que permite o armazenamento de repositórios para visualizar informações como: login e foto do dono do repositório, e a listagem de issues do repositório (abertas, concluídas ou ambas).
-
+Desenvolvido durante o bootcamp GoStack 10 da Rocketseat.
 ##  :mag_right: Main points covered on project / Principais pontos
 :us: 
 <br>
