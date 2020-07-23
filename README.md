@@ -1,5 +1,10 @@
-# gitRepositories
+<h1 align="center">
+  :octocat: Github Repositories web application
+</h1>
 
+<h3 align="center">
+:iphone: Mobile version <a href="https://github.com/gabrielbarth/git-users-mobile">here</a>
+</h3>
 
 :us: 
 <br>
