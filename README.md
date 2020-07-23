@@ -1,5 +1,7 @@
 <h1 align="center">
-  :octocat: Github Repositories web application
+  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="60" />
+  <br>
+  Github Repositories web application
 </h1>
 
 <h3 align="center">
