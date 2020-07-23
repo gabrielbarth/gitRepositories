@@ -42,9 +42,15 @@ Desenvolvido durante o bootcamp GoStack 10 da Rocketseat.
 
 
 ##  :computer: View of interface / Visão da interface
+
+<p align="center">
+  <img alt="IMAGE.GIF" title="html-image" src="./gitRepo.gif" width="700px" >
+</p>
+
+
 <div sstyle={{text-align: 'center'}}>
 
-<img src="./gitRepo.gif">
+
   </div>
 
 
